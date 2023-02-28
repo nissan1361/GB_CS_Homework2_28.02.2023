@@ -1,0 +1,15 @@
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/bin/Debug/net6.0/GB_Homework2
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/bin/Debug/net6.0/GB_Homework2.deps.json
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/bin/Debug/net6.0/GB_Homework2.runtimeconfig.json
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/bin/Debug/net6.0/GB_Homework2.dll
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/bin/Debug/net6.0/GB_Homework2.pdb
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/GB_Homework2.csproj.AssemblyReference.cache
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/GB_Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/GB_Homework2.AssemblyInfoInputs.cache
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/GB_Homework2.AssemblyInfo.cs
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/GB_Homework2.csproj.CoreCompileInputs.cache
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/GB_Homework2.dll
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/refint/GB_Homework2.dll
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/GB_Homework2.pdb
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/GB_Homework2.genruntimeconfig.cache
+/home/max/RiderProjects/GB_Homework2/GB_Homework2/obj/Debug/net6.0/ref/GB_Homework2.dll

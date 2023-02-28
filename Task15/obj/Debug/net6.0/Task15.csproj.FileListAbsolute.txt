@@ -1,0 +1,15 @@
+/home/max/RiderProjects/GB_Homework2/Task15/bin/Debug/net6.0/Task15
+/home/max/RiderProjects/GB_Homework2/Task15/bin/Debug/net6.0/Task15.deps.json
+/home/max/RiderProjects/GB_Homework2/Task15/bin/Debug/net6.0/Task15.runtimeconfig.json
+/home/max/RiderProjects/GB_Homework2/Task15/bin/Debug/net6.0/Task15.dll
+/home/max/RiderProjects/GB_Homework2/Task15/bin/Debug/net6.0/Task15.pdb
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/Task15.dll
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/refint/Task15.dll
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/Task15.pdb
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/Task15.genruntimeconfig.cache
+/home/max/RiderProjects/GB_Homework2/Task15/obj/Debug/net6.0/ref/Task15.dll
